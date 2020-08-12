@@ -1,2 +1,2 @@
-# integration_guide
-Document and Integration Guide for AsiaPay
+# AsiaPay Integration Guide
+You can find the Integration Guide and Manual at here
