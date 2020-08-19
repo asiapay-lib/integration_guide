@@ -13,4 +13,3 @@ You can find the Integration Guide and Manual at here
 - [Android](https://github.com/asiapay-lib/paysdk-android-demo)
 
 - [iOS](https://github.com/asiapay-lib/paysdk-ios-demo)
-asiapay-lib/paysdk-android-libPaySDK Android Library. Contribute to asiapay-lib/paysdk-android-lib development by creating an account on GitHub.github.com
