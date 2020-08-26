@@ -7,7 +7,7 @@ You can find the Integration Guide and Manual at here
 
 - [Standard Integration Guide](https://github.com/asiapay-lib/integration_guide/blob/master/PayDollar%20PayGate%20Integration%20Guide%20(v3.62).pdf)
 
-- [eWallet Direct Payment Integration Guide](https://github.com/asiapay-lib/integration_guide/blob/master/PayDollar%20PayGate%20Integration%20Guide%20(eWallet%20Direct)%20(v1.3).pdf)
+- [Wallet Direct Payment Integration Guide](https://github.com/asiapay-lib/integration_guide/blob/master/PayDollar%20PayGate%20Integration%20Guide%20(eWallet%20Direct)%20(v1.3).pdf)
 
 ### PaySdk Integration
 #### Library :
