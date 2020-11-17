@@ -9,6 +9,8 @@ You can find the Integration Guide and Manual at here
 
 - [Wallet Direct Payment Integration Guide](https://github.com/asiapay-lib/integration_guide/blob/master/PayDollar%20PayGate%20Integration%20Guide%20(eWallet%20Direct)%20(v1.31).pdf)
 
+- [AsiaPay Tokenization Integration Guide](https://github.com/asiapay-lib/integration_guide/blob/master/Integration%20Guide%20for%20Membership%20and%20MemberPay%20v2.2.pdf)
+
 ### PaySdk Integration
 #### Library :
 - [Android](https://github.com/asiapay-lib/paysdk-android-lib)
