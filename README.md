@@ -5,9 +5,9 @@ You can find the Integration Guide and Manual at here
 
 ### Integration Document :
 
-- [Standard Integration Guide](https://github.com/asiapay-lib/integration_guide/blob/master/PayDollar%20PayGate%20Integration%20Guide%20(v3.62).pdf)
+- [Standard Integration Guide](https://github.com/asiapay-lib/integration_guide/blob/master/PayDollar%20PayGate%20Integration%20Guide.pdf)
 
-- [Wallet Direct Payment Integration Guide](https://github.com/asiapay-lib/integration_guide/blob/master/PayDollar%20PayGate%20Integration%20Guide%20(eWallet%20Direct)%20(v1.4).pdf)
+- [Wallet Direct Payment Integration Guide](https://github.com/asiapay-lib/integration_guide/blob/master/PayDollar%20PayGate%20Integration%20Guide%20(eWallet%20Direct).pdf)
 
 - [AsiaPay Tokenization Integration Guide](https://github.com/asiapay-lib/integration_guide/blob/master/Integration%20Guide%20for%20Membership%20and%20MemberPay%20v2.2.pdf)
 
